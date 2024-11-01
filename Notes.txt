@@ -1,0 +1,30 @@
+Dataset used: https://www.kaggle.com/datasets/timmate/avocado-prices-2020/data
+-----------------------------------------------------------
+Data set information:
+Dataset contains 33045 rows × 13 columns
+-----------------------------------------------------------
+There is no null data
+-----------------------------------------------------------
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 33045 entries, 0 to 33044
+Data columns (total 13 columns):
+ #   Column        Non-Null Count  Dtype  
+---  ------        --------------  -----  
+ 0   Date          33045 non-null  object 
+ 1   AveragePrice  33045 non-null  float64
+ 2   Total Volume  33045 non-null  float64
+ 3   4046          33045 non-null  float64
+ 4   4225          33045 non-null  float64
+ 5   4770          33045 non-null  float64
+ 6   Total Bags    33045 non-null  float64
+ 7   Small Bags    33045 non-null  float64
+ 8   Large Bags    33045 non-null  float64
+ 9   XLarge Bags   33045 non-null  float64
+ 10  type          33045 non-null  object 
+ 11  year          33045 non-null  int64  
+ 12  region        33045 non-null  object 
+dtypes: float64(9), int64(1), object(3)
+memory usage: 3.3+ MB
+-----------------------------------------------------------
+
+
